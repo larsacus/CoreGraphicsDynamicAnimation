@@ -1,7 +1,7 @@
-#The What
+# The What
 A neat sample project for dynamically animating in CoreAnimation anything drawn in drawRect: using CoreGraphics.
 
-#The How
+# The How
 Using some hand-waving, documentation reading, and internet browsing, I've distilled the steps required for this method to work down into the following recipe:
 
 You'll find the following recipe documented in-context in the `TOLLightLayer.m` class:
@@ -14,4 +14,4 @@ You'll find the following recipe documented in-context in the `TOLLightLayer.m` 
 6. Profit?
 
 
-### @theonlylars
+[@theonlylars](https://theonlylars.com)
